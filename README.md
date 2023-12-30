@@ -1,6 +1,6 @@
 # Grader
 
-The Grader tool can be used to generate reports that includes statistices like percentile scores, histograms , section performance, individual performances across different subjects.
+The Grader tool can be used to generate reports that includes statistics like percentile scores, histograms , section performance, individual performances across different subjects.
 
 Here is the structure of the base code:
 
